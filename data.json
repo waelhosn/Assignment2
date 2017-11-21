@@ -1,0 +1,52 @@
+[
+   {
+      "id":1,
+      "content":"My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style.",
+      "author":"Maya Angelou"
+   },
+   {
+      "id":2,
+      "content":"Leadership and learning are indispensable to each other",
+      "author":"John F. Kennedy"
+   },
+   {
+      "id":3,
+      "content":"People who think they know everything are a great annoyance to those of us who do",
+      "author":"Isaac Asimov"
+   },
+   {
+      "id":4,
+      "content":"I love deadlines. I like the whooshing sound they make as they fly by",
+      "author":"Douglas Adams"
+   },
+   {
+      "id":5,
+      "content":"Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible",
+      "author":"Maya Angelou"
+   },
+   {
+      "id":6,
+      "content":"I may be drunk, Miss, but in the morning I will be sober and you will still be ugly",
+      "author":"Winston Churchill"
+   },
+   {
+      "id":7,
+      "content":"The better I get to know men, the more I find myself loving dogs.",
+      "author":"Charles de Gaulles"
+   },
+   {
+      "id":8,
+      "content":"Don't walk behind me; I may not lead. Don't walk in front of me; I may not follow. Just walk beside me and be my friend",
+      "author":"Albert Camus"
+   },
+   {
+      "id":9,
+      "content":"If you don't like something, change it. If you can't change it, change your attitude",
+      "author":"Maya Angelou"
+   },
+   {
+      "id":10,
+      "content":"I've learned that you can tell a lot about a person by the way (s)he handles these three things: a rainy day, lost luggage, and tangled Christmas tree lights",
+      "author":"Maya Angelou"
+   }
+]

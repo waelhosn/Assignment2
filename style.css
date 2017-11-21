@@ -1,0 +1,21 @@
+/* Your CSS here... */
+
+#go{
+
+background-color: red;
+color:black;
+height:30px;
+weight:30px;
+
+}
+h4{
+    width: 300px;
+    padding: 8px;
+    padding-bottom: 0px;
+}
+#author{
+    text-align: right;
+    font-style:italic;
+
+}
+
